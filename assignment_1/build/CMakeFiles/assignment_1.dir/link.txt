@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/assignment_1.dir/src/main.cpp.o CMakeFiles/assignment_1.dir/src/commands.cpp.o CMakeFiles/assignment_1.dir/src/fsops.cpp.o CMakeFiles/assignment_1.dir/src/permissions.cpp.o CMakeFiles/assignment_1.dir/src/search.cpp.o CMakeFiles/assignment_1.dir/src/util.cpp.o -o assignment_1
